@@ -65,6 +65,7 @@ Requires Python 3.11 (see `runtime.txt`).
 | 23/EG/CV/008 | Simon, Godswill Emmanuel| 
 |23/EG/CV/028| Samuel Franklyn Lawrence |
 |23/EG/CV/068| Edward, Godspower Akaninyene |
+| 23/EG/CV/078 | Etok, Favour Godwin |
 
 ## License
 
